@@ -1,7 +1,4 @@
 %Saksham Shrestha
-%Dr. Shijie Zhou
-%CPB517
-%Fall22
 %Modeling of an action potential based on the Hodgkin Huxley model
 
 %equilibrium potentials(mV)
